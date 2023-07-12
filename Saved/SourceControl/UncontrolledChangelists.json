@@ -1,0 +1,46 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Chiagozie Ogbonna/Documents/Unreal Projects/RPG_Tutorial/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/Chiagozie Ogbonna/Documents/Unreal Projects/RPG_Tutorial/Content/Characters/RPG_Character/Animations/Locomotion/Idle_Break.uasset",
+				"C:/Users/Chiagozie Ogbonna/Documents/Unreal Projects/RPG_Tutorial/Content/Characters/RPG_Character/Animations/Locomotion/Walk_Stop.uasset",
+				"C:/Users/Chiagozie Ogbonna/Documents/Unreal Projects/RPG_Tutorial/Content/Characters/RPG_Character/Animations/Crouched/Crouch_Idle.uasset",
+				"C:/Users/Chiagozie Ogbonna/Documents/Unreal Projects/RPG_Tutorial/Content/Characters/RPG_Character/Animations/Crouched/Crouh_Walk.uasset",
+				"C:/Users/Chiagozie Ogbonna/Documents/Unreal Projects/RPG_Tutorial/Content/Characters/RPG_Character/Animations/Locomotion/Locomotion_blendSpace1D.uasset",
+				"C:/Users/Chiagozie Ogbonna/Documents/Unreal Projects/RPG_Tutorial/Content/Characters/RPG_Character/Animations/ABP_RPGCharacter.uasset",
+				"C:/Users/Chiagozie Ogbonna/Documents/Unreal Projects/RPG_Tutorial/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/Chiagozie Ogbonna/Documents/Unreal Projects/RPG_Tutorial/Content/Characters/RPG_Character/Animations/Crouched/CrouchedBlendSpace1D.uasset",
+				"C:/Users/Chiagozie Ogbonna/Documents/Unreal Projects/RPG_Tutorial/Content/ThirdPerson/Input/Actions/IA_Crouch.uasset",
+				"C:/Users/Chiagozie Ogbonna/Documents/Unreal Projects/RPG_Tutorial/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"C:/Users/Chiagozie Ogbonna/Documents/Unreal Projects/RPG_Tutorial/Content/Characters/RPG_Character/Animations/Lean/Lean_Left.uasset",
+				"C:/Users/Chiagozie Ogbonna/Documents/Unreal Projects/RPG_Tutorial/Content/Characters/RPG_Character/Animations/Lean/Lean_Right.uasset",
+				"C:/Users/Chiagozie Ogbonna/Documents/Unreal Projects/RPG_Tutorial/Content/Characters/RPG_Character/Animations/Lean/LeanBlendSpace1D.uasset",
+				"C:/Users/Chiagozie Ogbonna/Documents/Unreal Projects/RPG_Tutorial/Content/Characters/Mannequins/Materials/Instances/Manny/Manny_Blue2.uasset",
+				"C:/Users/Chiagozie Ogbonna/Documents/Unreal Projects/RPG_Tutorial/Content/Characters/Mannequins/Materials/Instances/Manny/Manny_Blue1.uasset",
+				"C:/Users/Chiagozie Ogbonna/Documents/Unreal Projects/RPG_Tutorial/Content/Characters/Mannequins/Meshes/SK_Mannequin.uasset",
+				"C:/Users/Chiagozie Ogbonna/Documents/Unreal Projects/RPG_Tutorial/Content/Characters/RPG_Character/Animations/Vaulting/VaultOver.uasset",
+				"C:/Users/Chiagozie Ogbonna/Documents/Unreal Projects/RPG_Tutorial/Content/Characters/RPG_Character/Animations/Vaulting/VaultOver_Montage.uasset",
+				"C:/Users/Chiagozie Ogbonna/Documents/Unreal Projects/RPG_Tutorial/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/KC/SSFXIMPJ5Z3ZOAIUF9622Y.uasset",
+				"C:/Users/Chiagozie Ogbonna/Documents/Unreal Projects/RPG_Tutorial/Content/Characters/RPG_Character/Animations/Assassinations/UE4/Paired_Knife_Stealth_KidneyAndNeck_Vic.uasset",
+				"C:/Users/Chiagozie Ogbonna/Documents/Unreal Projects/RPG_Tutorial/Content/Characters/RPG_Character/Animations/Assassinations/UE4/Paired_Knife_Stealth_KidneyAndNeck_Att.uasset",
+				"C:/Users/Chiagozie Ogbonna/Documents/Unreal Projects/RPG_Tutorial/Content/Characters/RPG_Character/Animations/Assassinations/Paired_Knife_Stealth_KidneyAndNeck_Vic.uasset",
+				"C:/Users/Chiagozie Ogbonna/Documents/Unreal Projects/RPG_Tutorial/Content/Characters/RPG_Character/Animations/Assassinations/Paired_Knife_Stealth_KidneyAndNeck_Att.uasset",
+				"C:/Users/Chiagozie Ogbonna/Documents/Unreal Projects/RPG_Tutorial/Content/Characters/RPG_Character/Animations/Assassinations/Paired_Knife_Stealth_KidneyAndNeck_Att_Montage.uasset",
+				"C:/Users/Chiagozie Ogbonna/Documents/Unreal Projects/RPG_Tutorial/Content/Blueprints/BP_Dummy.uasset",
+				"C:/Users/Chiagozie Ogbonna/Documents/Unreal Projects/RPG_Tutorial/Content/Blueprints/BPI_Assassination.uasset",
+				"C:/Users/Chiagozie Ogbonna/Documents/Unreal Projects/RPG_Tutorial/Content/ThirdPerson/Input/Actions/IA_Vault.uasset",
+				"C:/Users/Chiagozie Ogbonna/Documents/Unreal Projects/RPG_Tutorial/Content/ThirdPerson/Input/Actions/IA_Assassin.uasset",
+				"C:/Users/Chiagozie Ogbonna/Documents/Unreal Projects/RPG_Tutorial/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/F2/LPHSX84L2GAHZT8IX4QLLT.uasset",
+				"C:/Users/Chiagozie Ogbonna/Documents/Unreal Projects/RPG_Tutorial/Content/Characters/RPG_Character/Animations/Assassinations/Paired_Knife_Stealth_KidneyAndNeck_Vic_Montage.uasset",
+				"C:/Users/Chiagozie Ogbonna/Documents/Unreal Projects/RPG_Tutorial/Content/UI/WB_AssassinatePrompt.uasset",
+				"C:/Users/Chiagozie Ogbonna/Documents/Unreal Projects/RPG_Tutorial/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/KQ/D8KM8OVILH32S79ZJEUF81.uasset",
+				"C:/Users/Chiagozie Ogbonna/Documents/Unreal Projects/RPG_Tutorial/Content/Characters/Mannequins/Materials/Instances/Manny/Manny_Blue.uasset",
+				"C:/Users/Chiagozie Ogbonna/Documents/Unreal Projects/RPG_Tutorial/Content/Characters/Mannequins/Materials/Instances/Manny/Manny_Blue0.uasset"
+			]
+		}
+	]
+}
